@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://simonschoelzel.rbind.io/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Simon Schölzel"

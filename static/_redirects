@@ -1,0 +1,3 @@
+https://simonschoe.netlify.app/*  http://simonschoelzel.rbind.io/:splat 301!
+http://simonschoe.netlify.app/*	  http://simonschoelzel.rbind.io/:splat 301!
+http://simonschoelzel.rbind.io/*  https://simonschoelzel.rbind.io/:splat 301!
