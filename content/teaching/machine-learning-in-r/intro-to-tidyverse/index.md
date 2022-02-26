@@ -1,11 +1,11 @@
 ---
+title: Introduction to the Tidyverse
+subtitle: 
 author: Simon Schölzel
-categories:
-- Workshop
-date: "2021-10-01"
+weight: 3
+date: 2021-10-01
 draft: false
 excerpt: This lecture is part of the "Machine Learning in R" graduate course held at University of Münster, School of Business and Economics (winter term 2021/22).
-layout: single
 links:
 - icon: door-open
   icon_pack: fas
@@ -15,14 +15,10 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/simonschoe/introduction-to-the-tidyverse
-subtitle: 
+categories:
+- Workshop
 tags:
-title: Introduction to the Tidyverse
 ---
-
-*This lecture is part of the "Machine Learning in R" graduate course held at University of Münster, School of Business and Economics (winter term 2021/22).* :mortar_board:
-
-<br>
 
 ### Contents
 

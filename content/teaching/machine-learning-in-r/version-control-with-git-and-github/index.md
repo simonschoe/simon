@@ -1,29 +1,24 @@
 ---
+title: Version Control with Git and GitHub
+subtitle: 
 author: Simon Schölzel
-categories:
-- Workshop
-date: "2021-10-01"
+weight: 2
+date: 2021-10-01
 draft: false
 excerpt: This lecture is part of the "Machine Learning in R" graduate course held at University of Münster, School of Business and Economics (winter term 2021/22).
-layout: single
 links:
 - icon: door-open
   icon_pack: fas
   name: Slides
-  url: https://simonschoe.github.io/version-control-with-git-and-github/#1
+  url: https://simonschoe.github.io/version-control-with-git-and-github/
 - icon: github
   icon_pack: fab
   name: code
   url: https://github.com/simonschoe/version-control-with-git-and-github
-subtitle: 
+categories:
+- Workshop
 tags:
-title: Version Control with Git and GitHub
 ---
-
-*This lecture is part of the "Machine Learning in R" graduate course held at University of Münster, School of Business and Economics (winter term 2021/22).* :mortar_board:
-
-
-<br>
 
 ### Agenda
 
