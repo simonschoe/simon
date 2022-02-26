@@ -1,28 +1,24 @@
 ---
+title: Machine Learning Workflows with Tidymodels
+subtitle: 
 author: Simon Schölzel
-categories:
-- Workshop
-date: "2021-10-01"
+weight: 4
+date: 2021-10-01
 draft: false
 excerpt: This lecture is part of the "Machine Learning in R" graduate course held at University of Münster, School of Business and Economics (winter term 2021/22).
-layout: single
 links:
 - icon: door-open
   icon_pack: fas
   name: Slides
-  url: https://simonschoe.github.io/dynamic-programming-with-rmarkdown/
+  url: https://simonschoe.github.io/ml-with-tidymodels/#1
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/simonschoe/dynamic-programming-with-rmarkdown
-subtitle: 
+  url: https://github.com/simonschoe/ml-with-tidymodels
+categories:
+- Workshop
 tags:
-title: Dynamic Programming with Rmarkdown
 ---
-
-*This lecture is part of the "Machine Learning in R" graduate course held at University of Münster, School of Business and Economics (winter term 2021/22).* :mortar_board:
-
-<br>
 
 ### Contents
 
@@ -38,14 +34,21 @@ More specifically, after this lecture you will
 
 ### Agenda
 
-**1 The Story So Far: `R` Scripts**
+**1 Learning Objectives**
 
-**2 R Markdown Documents**  
-> 2.1 The `YAML` Header  
-2.2 The Text Body  
-2.3 Code Chunks & Output  
-2.4 Generating High-Quality Reports
-  
-**3 Interactive Data Science in `R`**  
-> 3.1 Introduction to Computational Notebooks  
-3.2 R Markdown Documents vs. R Notebooks
+**2 Introduction to `tidymodels`**
+
+**3 Himalayan Climbing Expeditions Data**
+
+**4 The Core `tidymodels` Packages**
+
+>4.1 `rsample`: General Resampling Infrastructure  
+4.2 `recipes`: Preprocessing Tools to Create Design Matrices  
+4.3 `parsnip`: A Common API to Modeling and Analysis Functions  
+4.4 `workflows`: Modeling Workflows  
+4.5 `dials`: Tools for Creating Tuning Parameter Values  
+4.6 `tune`: Tidy Tuning Tools  
+4.7 `broom`: Convert Statistical Objects into Tidy Tibbles  
+4.8 `yardstick`: Tidy Characterizations of Model Performance
+
+**5 Additions to the `tidymodels` Ecosystem**

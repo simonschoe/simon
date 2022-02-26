@@ -33,7 +33,7 @@ enableEmoji = true
   description = "xxxxxxxxxxxxx"
   favicon = "/img/icon.png"
   logo = "/img/icon.png"
-  mainSections = ["talk"]
+  mainSections = ["talk", "collection"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -134,16 +134,16 @@ enableEmoji = true
     title = "Research"
     url = "/research/"
     weight = 2
+  #[[menu.header]]
+  #  name = "Teaching"
+  #  title = "Teaching"
+  #  url = "/teaching/"
+  #  weight = 3
   [[menu.header]]
     name = "Teaching"
     title = "Teaching"
     url = "/teaching/"
     weight = 3
-  #[[menu.header]]
-  #  name = "Collection"
-  #  title = "A collection"
-  #  url = "/collection/"
-  #  weight = 5
   [[menu.header]]
     name = "Kabuff"
     title = "Element Page"

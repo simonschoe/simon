@@ -1,5 +1,5 @@
 ---
-action_label: Read More &rarr;
+action_label: More About Me &rarr;
 action_link: /about
 action_type: text # or button 
 description: |

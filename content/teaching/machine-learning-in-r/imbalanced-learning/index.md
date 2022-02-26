@@ -1,11 +1,11 @@
 ---
+title: Imbalanced Learning
+subtitle: 
 author: Simon Schölzel
-categories:
-- Workshop
-date: "2020-10-01"
+weight: 6
+date: 2020-10-01
 draft: false
 excerpt: This lecture is part of the "Machine Learning in R" graduate course held at University of Münster, School of Business and Economics (winter term 2020/21).
-layout: single
 links:
 - icon: door-open
   icon_pack: fas
@@ -15,14 +15,10 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/simonschoe/imbalanced-learning
-subtitle: 
+categories:
+- Workshop
 tags:
-title: Imbalanced Learning
 ---
-
-*This lecture is part of the "Machine Learning in R" graduate course held at University of Münster, School of Business and Economics (winter term 2020/21).* :mortar_board:
-
-<br>
 
 ### Contents
 
