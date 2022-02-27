@@ -16,7 +16,7 @@
     <figure class="mr4-ns ma0 mb2 mb0-l w-100 w-30-ns">
       <a href="{{ .RelPermalink }}" class="db">
         {{ with $thumbnail }}
-          <img src="{{ .RelPermalink | absURL }}" class="db ma0 dim" alt="">
+          <img src="{{ .RelPermalink | absURL }}" class="db ma0 dim br3" alt="">
         {{ end }}
       </a>
     </figure>
@@ -44,7 +44,7 @@
     </footer>
     </div>
   </div>
-  
+
   <!--if show_post_thumbnail is FALSE in root-->
   {{ else }}
   <div class="measure-wide center mb4 mb5-l">
