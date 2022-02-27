@@ -32,6 +32,3 @@ Value-based (VB) management is an approach that seeks to align the interests of 
 **Keywords:** Value-Based Management, Issuer Rating, Downgrades, Upgrades, Event Study
 
 **Classifications:** M41, G14, G32 
-
-<br><br><br>
-Thumbnail picture by [Sean Stratton](https://unsplash.com/@seanstratton)

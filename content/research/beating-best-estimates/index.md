@@ -19,10 +19,10 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/simonschoe/warranty-ml
-- icon: download
+- icon: file-pdf
   icon_pack: fa
-  name: Presentation
-  url: xxx
+  name: Online Appendix
+  url: research/beating-best-estimates/online-appendix.pdf
 location: 
 show_post_time: false
 subtitle: 
@@ -36,7 +36,3 @@ This study employs machine learning to shed light on the accuracy of discretiona
 **Keywords:** Machine Learning, Accounting Estimates, Management Bias, Measure-ment Uncertainty, Warranty Provision
 
 **Classifications:** C52, C53, D81, D91, M41, M42
-
-
-<br><br><br>
-Thumbnail picture by [Katie Moum](https://unsplash.com/@katiemoum)
