@@ -14,8 +14,8 @@ intro: |
   - how neural transfer learning could advance the state-of-the-art in textual analysis in Accounting Research.
   
   Previously, I worked as an intern at Miele, BASF, and Bayer. I became acquainted with different facets of the Accounting & Finance function in international corporates while wrangling operational data from prevalent accounting information systems using R and Tableau.
-show_outro: false
-outro: 
+show_outro: true
+outro: All images used throughout this website have been generated using [dream](https://app.wombo.art/) GAN.
 ---
 
 \*\* index doesn't contain a body, just front matter above. See about/list.html in the layouts folder \*\*
