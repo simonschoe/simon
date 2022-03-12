@@ -1,5 +1,4 @@
 ---
-type: collection
 title: Teaching
 subtitle: Subtitle
 description: A list of the courses and workshops I drafted and taught.

@@ -1,6 +1,5 @@
 ---
 author: 
-type: talk
 cascade:
   type: talk
   show_author_byline: true

@@ -4,15 +4,17 @@ author: "Simon Schölzel"
 role: "PhD Student & Research Associate, University of Münster"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
-audio_link_label: "Audio description" # leave blank to exclude
+audio_link_label:  # leave blank to exclude
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: Applied Machine Learning
-  url: xxx
+  url: https://www.tmwr.org/
 - name: Natural Language Processing
-  url: xxx
-- name: Learning & Education
-  url: xxx
+  url: https://web.stanford.edu/~jurafsky/slp3/
+- name: Transformers
+  url: https://transformersbook.com/
+- name: Learning
+  url: 
 ---
 
 ** index doesn't contain a body, just front matter above.

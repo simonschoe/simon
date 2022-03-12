@@ -5,7 +5,7 @@ author: Simon Schölzel
 weight: 5
 date: 2020-10-01
 draft: false
-excerpt: This lecture is part of the "Machine Learning in R" graduate course held at University of Münster, School of Business and Economics (winter term 2020/21).
+excerpt: This lecture is part of the "Machine Learning in R" graduate course held at University of Münster, School of Business and Economics (winter term 2020/21). 🎓
 links:
 - icon: door-open
   icon_pack: fas

@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "Simon Schölzel"
   orgLocal = "Münster, DE"
-  description = "xxxxxxxxxxxxx"
+  description = "Homepage of Simon Schölzel"
   favicon = "/img/icon.png"
   logo = "/img/icon.png"
   mainSections = ["talk", "collection"]
@@ -114,31 +114,11 @@ enableEmoji = true
     title = "About Blogophonic"
     url = "/about/"
     weight = 1
-  #[[menu.header]]
-  #  name = "Blog"
-  #  title = "Blog"
-  #  url = "/blog/"
-  #  weight = 2
-  #[[menu.header]]
-  #  name = "Projects"
-  #  title = "Project Portfolio"
-  #  url = "/project/"
-  #   weight = 3
-  #[[menu.header]]
-  #  name = "Talks"
-  #  title = "Talks"
-  #  url = "/talk/"
-  #  weight = 4
   [[menu.header]]
     name = "Research"
     title = "Research"
     url = "/research/"
     weight = 2
-  #[[menu.header]]
-  #  name = "Teaching"
-  #  title = "Teaching"
-  #  url = "/teaching/"
-  #  weight = 3
   [[menu.header]]
     name = "Teaching"
     title = "Teaching"
