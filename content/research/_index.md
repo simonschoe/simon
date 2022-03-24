@@ -6,7 +6,7 @@ cascade:
   show_comments: false
   show_post_date: true
   show_post_time: false
-description: A list of my publications and ongoing research projects, alongside links to supplementary resources (e.g., code, models, online appendices, etc.).
+description: A list of publications and ongoing research projects, alongside links to supplementary resources (e.g., code, models, online appendices, etc.).
 layout: list
 show_author_byline: true
 show_button_links: true
