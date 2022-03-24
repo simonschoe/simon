@@ -10,12 +10,13 @@ subtitle: Course Materials – Winter term 2021/22
 description: |
   Description
 excerpt: |
-  These are some lectures that were part of a graduate course held at University of Münster, School of Business and Economics (winter term 2021/22). 🎓
+  Lectures that were part of a graduate course held at University of Münster, School of Business and Economics (winter term 2021/22) 🎓
 author: Simon Schölzel
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
 ---
+
 | **Contents**                                             | **Additional Selected Topics**                  |
 |----------------------------------------------------------|-------------------------------------------------|
 | 1. Introduction to Supervised and Unsupervised Learning  | 1. Dynamic Programming with Rmarkdown           |

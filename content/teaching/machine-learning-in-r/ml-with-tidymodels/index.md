@@ -1,11 +1,11 @@
 ---
-title: Machine Learning Workflows with Tidymodels
+title: 4. Machine Learning Workflows with Tidymodels
 subtitle: 
 author: Simon Schölzel
 weight: 4
 date: 2021-10-01
 draft: false
-excerpt: This lecture is part of the "Machine Learning in R" graduate course held at University of Münster, School of Business and Economics (winter term 2021/22). 🎓
+excerpt: This lecture was part of the "Machine Learning in R" graduate course held at University of Münster, School of Business and Economics (winter term 2021/22). 🎓
 links:
 - icon: door-open
   icon_pack: fas
