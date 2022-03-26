@@ -19,6 +19,8 @@ kleiner, dunkler, meist fensterloser [Neben]raum, Abstellraum. Ein Raum für all
 
 <iframe width="100%" height="175" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1213358386&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/anjunadeep" title="Anjunadeep" target="_blank" style="color: #cccccc; text-decoration: none;">Anjunadeep</a> · <a href="https://soundcloud.com/anjunadeep/the-anjunadeep-edition-386" title="The Anjunadeep Edition 386 with Tinlicker" target="_blank" style="color: #cccccc; text-decoration: none;">The Anjunadeep Edition 386 with Tinlicker</a></div>
 
+<br>
+
 ### Quotes
 
 *The future, even in its inevitabilities, always feels vague and nebulous to me—until it doesn't.*  
@@ -28,4 +30,14 @@ kleiner, dunkler, meist fensterloser [Neben]raum, Abstellraum. Ein Raum für all
 *Everyone is a contributor [to life], but no one is the owner.*  
 ~ [Albert Bourla, reciting Steve Jobs](https://youtu.be/Z_LhPMhkEdw?t=4016)
 
+<br>
+
+### Gists
+
+<details>
+  <summary><b>venv</b></summary>
+  
+  Commands for setting up virtual environments in Python
+  <script src="https://gist.github.com/simonschoe/f4624af4b51816493634ba4b6965819d.js"></script>
+</details>
 

@@ -26,3 +26,4 @@ show_post_date: true
 | 5. Verarbeitung von Textdaten                            |
 | 6. Korrelation & Kausalität                              |
 | 7. Datenbeschaffung mittels API                          |
+| 8. ...                                                   |
