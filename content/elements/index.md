@@ -31,13 +31,3 @@ kleiner, dunkler, meist fensterloser [Neben]raum, Abstellraum. Ein Raum für all
 ~ [Albert Bourla, reciting Steve Jobs](https://youtu.be/Z_LhPMhkEdw?t=4016)
 
 <br>
-
-### Gists
-
-<details>
-  <summary><b>venv</b></summary>
-  
-  Commands for setting up virtual environments in Python
-  <script src="https://gist.github.com/simonschoe/f4624af4b51816493634ba4b6965819d.js"></script>
-</details>
-

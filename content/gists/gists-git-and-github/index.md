@@ -1,0 +1,25 @@
+---
+title: Git Snippets
+subtitle: Subtitle
+summary: <i class="fab fa-git-alt"></i>
+author: Simon Schölzel
+date: 2022-04-15
+slug: git-gists
+categories:
+  - Git
+tags:
+  - Git
+---
+
+### <i class="fab fa-git-alt"></i>
+
+Update Git remote URL (e.g., after renaming)
+
+```bash
+git remote set-url origin <updated-url>
+```
+
+Remove Files from Git after adding/updating `.gitignore`
+```bash
+git rm --cached <filename>
+```
