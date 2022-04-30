@@ -10,14 +10,14 @@ links:
 - icon: door-open
   icon_pack: fas
   name: Slides
-  url: xxx
+  url: https://github.com/simonschoe/data-literacy-course/blob/master/4-data-analysis-in-python/slides.pptx
 - icon: github
   icon_pack: fab
   name: code
-  url: xxx
+  url: https://github.com/simonschoe/data-literacy-course/tree/master/4-data-analysis-in-python
 categories:
 - Workshop
 tags:
 ---
 
-Zunächst Diskussion des Begriffs „Data Science“ sowie Überblick über den Data Science Prozess. Es folgt eine grundlegende Einführung in die Programmiersprache Python mit diversen Anwendungsbeispielen. Der Großteil des Themenblockes besteht dann aus der praktischen Arbeit mit tabellarischen Daten in Python, insb. Datenmanipulation und Datenanalyse mit der Python Library Pandas.
+Zunächst Diskussion des Begriffs „Data Science“ sowie Überblick über den Data Science Prozess. Es folgt eine grundlegende Einführung in die Programmiersprache Python mit diversen Anwendungsbeispielen. Der Großteil des Themenblockes besteht dann aus der praktischen Arbeit mit tabellarischen Daten in Python, insb. Datenmanipulation und Datenanalyse mit der Python Library pandas.

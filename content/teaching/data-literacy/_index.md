@@ -10,7 +10,7 @@ subtitle: Course Materials – Summer term 2022
 description: |
   Description
 excerpt: |
-  Lectures that were part of an undergraduate course held at University of Münster, School of Business and Economics (summer term 2022) 🎓
+  Lectures that were part of an undergraduate course held at University of Münster, School of Business and Economics (summer 2022, taught in German) 🎓
 author: Simon Schölzel
 show_post_thumbnail: true
 show_author_byline: true
