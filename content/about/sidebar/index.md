@@ -11,10 +11,10 @@ link_list:
   url: https://www.tmwr.org/
 - name: Natural Language Processing
   url: https://web.stanford.edu/~jurafsky/slp3/
-- name: Transformers
-  url: https://transformersbook.com/
-- name: Learning
-  url: 
+- name: Long-Form Podcasts
+  url: https://lexfridman.com/podcast/
+- name: Climate Science
+  url: https://www.goodreads.com/book/show/57433539-unsettled
 ---
 
 ** index doesn't contain a body, just front matter above.

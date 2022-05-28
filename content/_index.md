@@ -3,15 +3,13 @@ action_label: About Me &rarr;
 action_link: /about
 action_type: text # or button 
 description: |
-  I am a third-year PhD student intrigued by practical problems at the intersection between data science and accounting. As a teacher, I try to empower others to discover and embrace the merits of data and AI. As a researcher, I investigate how machine learning can promote managerial decision-making and aid in making complex phenomenons tangible.
-  <div style="text-align: right"><i>"My goal is to be a scarecrow. Outstanding in my field."</i></div>
-  <div style="text-align: right"><i>~ <a href="https://twitter.com/lexfridman/status/1337837110687043584">Lex Fridman</a></i></div>
+  I am a third-year PhD student intrigued by practical problems at the intersection between data science and accounting. As an educator, I try to empower others to discover and embrace the merits of data and AI. As a researcher, I investigate how machine learning can promote managerial decision-making and aid in making complex phenomenons measurable.
 image_left: true
 images:
 - img/home.jpg
 show_action_link: true
 show_social_links: true
-subtitle: PhD Student & Research Associate
+subtitle: PhD Student & Research Associate @ University of Münster
 text_align_left: falsefocus
 title: Simon Schölzel
 type: home

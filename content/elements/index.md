@@ -30,4 +30,7 @@ kleiner, dunkler, meist fensterloser [Neben]raum, Abstellraum. Ein Raum für all
 *Everyone is a contributor [to life], but no one is the owner.*  
 ~ [Albert Bourla, reciting Steve Jobs](https://youtu.be/Z_LhPMhkEdw?t=4016)
 
+*My goal is to be a scarecrow. Outstanding in my field.*  
+~[Lex Fridman](https://twitter.com/lexfridman/status/1337837110687043584)
+
 <br>

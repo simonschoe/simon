@@ -6,7 +6,7 @@ use_featured: false # if false, use most recent by date
 number_categories: 10 # set to zero to exclude
 show_intro: true
 intro: |
-  I am a PhD student and Research Associate in Accounting at the University of Münster. I am engaged in various [research projects](/research) that all share a common ground: **Data Science**. I enjoy deep work, hard problems, and alternating between R and Python to harness the best of both worlds.
+  I am a PhD student and Research Associate in Accounting at the University of Münster. I am engaged in various [research projects](/research) that all share a common ground: **Data Science**. I strive to approach hard problems with a [scientific mindset](https://hbr.org/2022/05/act-like-a-scientist), favor deep work, and alternate between R and Python to harness the best of both worlds.
   
   My research investigates
   - how machine learning could aid managerial decision-makers in gauging accounting estimates,
