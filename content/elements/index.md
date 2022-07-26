@@ -13,7 +13,9 @@ kleiner, dunkler, meist fensterloser [Neben]raum, Abstellraum. Ein Raum für all
 
 <br>
 
-### On Repeat    
+### On Repeat
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1300580767&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ste-vie-1" title="Sainte Vie" target="_blank" style="color: #cccccc; text-decoration: none;">Sainte Vie</a> · <a href="https://soundcloud.com/ste-vie-1/sainte-vie-live-set-turmbuhne-fusion-festival-2022" title="Sainte Vie (Live Set) - Turmbühne - Fusion Festival 2022" target="_blank" style="color: #cccccc; text-decoration: none;">Sainte Vie (Live Set) - Turmbühne - Fusion Festival 2022</a></div>
 
 <iframe width="100%" height="175" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1190178526&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/thisneverhappenedlabel" title="This Never Happened" target="_blank" style="color: #cccccc; text-decoration: none;">This Never Happened</a> · <a href="https://soundcloud.com/thisneverhappenedlabel/lane-8-winter-2021-mixtape" title="Lane 8 Winter 2021 Mixtape" target="_blank" style="color: #cccccc; text-decoration: none;">Lane 8 Winter 2021 Mixtape</a></div>
 
@@ -33,4 +35,13 @@ kleiner, dunkler, meist fensterloser [Neben]raum, Abstellraum. Ein Raum für all
 *My goal is to be a scarecrow. Outstanding in my field.*  
 ~[Lex Fridman](https://twitter.com/lexfridman/status/1337837110687043584)
 
+*Find an idea and let it chase you.*
+
 <br>
+
+
+### Gradio Web App
+
+<script type="module" src="https://gradio.s3-us-west-2.amazonaws.com/3.0.18/gradio.js"></script>
+
+<gradio-app space="simonschoe/Call2Vec"> </gradio-app>
