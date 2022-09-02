@@ -10,7 +10,7 @@ subtitle: Course Materials – Winter term 2021/22
 description: |
   Description
 excerpt: |
-  Lectures that were part of a graduate course held at University of Münster, School of Business and Economics (winter 2021, taugt in English) 🎓
+  Lectures that were part of a graduate course held at University of Münster, School of Business and Economics (winter 2021, taught in English) 🎓
 author: Simon Schölzel
 show_post_thumbnail: true
 show_author_byline: true
