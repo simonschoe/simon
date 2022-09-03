@@ -37,11 +37,6 @@ kleiner, dunkler, meist fensterloser [Neben]raum, Abstellraum. Ein Raum für all
 
 *Find an idea and let it chase you.*
 
-<br>
+*The more universal the appeal of the idea, the better it scales.*
+~[John List](https://www.thevoltageeffect.com/)
 
-
-### Gradio Web App
-
-<script type="module" src="https://gradio.s3-us-west-2.amazonaws.com/3.0.18/gradio.js"></script>
-
-<gradio-app space="simonschoe/Call2Vec"> </gradio-app>

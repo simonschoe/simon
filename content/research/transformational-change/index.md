@@ -27,3 +27,8 @@ We propose a firm-level proxy of transformational change that can be readily der
 
 **Keywords:** Transformational Change; Machine Learning; Neural Networks; Textual Analysis; Earnings Conference Calls; Information Content
 
+### Gradio Web App
+
+<script type="module" src="https://gradio.s3-us-west-2.amazonaws.com/3.0.18/gradio.js"></script>
+
+<gradio-app space="simonschoe/TIC"> </gradio-app>
