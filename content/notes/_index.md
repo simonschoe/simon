@@ -1,13 +1,13 @@
 ---
-author:
+author: 
 # set up common front matter for all pages inside blog/
 cascade:
-  author:
+  author: Simon Schölzel
   show_author_byline: true
   show_post_date: true
   show_comments: false # see site config to choose Disqus or Utterances
 layout: list # list, list-sidebar, list-grid
-description: An uncurated collection of notes, learnings, handy code snippets and commands that I rarely use and frequently escape my mind.
+description: An uncurated collection of notes, learnings, code snippets, and commands that I rarely use and that frequently escape my mind.
 show_post_thumbnail: true
 thumbnail_left: true
 show_author_byline: true

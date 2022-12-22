@@ -1,14 +1,9 @@
 ---
+date: 2022-06-18
 title: CLIP-Guided Image Synthesis
 subtitle: Generative Art Using VQGAN and CLIP
 summary: A write-up that summarizes my personal learnings and experimentations with CLIP-guided image synthesis.
-author: Simon Schölzel
-date: 2022-06-18
 slug: image-synthesis
-categories:
-  - GAN
-tags:
-  - GAN
 ---
 
 

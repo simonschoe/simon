@@ -1,14 +1,9 @@
 ---
+date: 2022-04-15
 title: Git Commands
 subtitle:  A place for handy Git commands
-summary: A collection of useful `Git` commands that I rarely use and frequently escape my mind. <i class="fab fa-git-alt"></i>
-author: Simon Schölzel
-date: 2022-04-15
-slug: git-gists
-categories:
-  - Git
-tags:
-  - Git
+summary: A collection of useful `Git` commands that I rarely use and that frequently escape my mind. <i class="fab fa-git-alt"></i>
+slug: git-commands
 ---
 
 ### <i class="fab fa-git-alt"></i>
