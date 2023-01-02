@@ -2,8 +2,10 @@
 date: 2022-06-18
 title: CLIP-Guided Image Synthesis
 subtitle: Generative Art Using VQGAN and CLIP
-summary: A write-up that summarizes my personal learnings and experimentations with CLIP-guided image synthesis.
+summary: A write-up that summarizes my personal learnings and experimentations with CLIP-guided image synthesis. It covers VQGAN, CLIP, Inference-by-Optimization, as well as various text-to-image and image-to-image experiments.
 slug: image-synthesis
+categories:
+- TIL
 ---
 
 

@@ -6,6 +6,8 @@ summary: Model calibrations convert a model's uncalibrated (soft) probabilities,
 format: hugo
 draft: false
 slug: model-calibration
+categories:
+- TIL
 ---
 
 ### Confidence Scores

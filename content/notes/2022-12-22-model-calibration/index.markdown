@@ -1,11 +1,13 @@
 ---
 date: 2022-12-22
-title: "Model Calibration"
-subtitle: "From Uncalibrated Confidence Scores to Calibrated Probabilities"
+title: Model Calibration
+subtitle: From Uncalibrated Confidence Scores to Calibrated Probabilities
 summary: Model calibrations convert a model's uncalibrated (soft) probabilities, also refered to as confidence scores, into interpretable, well-calibrated probabilities. They establish a link between model uncertainty and actual probabilities (i.e., calibrated predicted probabilities).
 format: hugo
 draft: false
 slug: model-calibration
+categories:
+- TIL
 ---
 
 
