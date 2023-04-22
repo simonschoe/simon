@@ -45,9 +45,9 @@ enableEmoji = true
   twitter = ""
 
   # use a built-in color theme
-  # one of: forest / grayscale / peach / plum /
-  #         poppy / sky / violet / water
   theme = "water"
+  # one of: earth / forest / grayscale / magma / paper / peach / plum /
+  #         poppy / primer / sky / violet / water
 
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
