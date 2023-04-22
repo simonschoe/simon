@@ -37,3 +37,27 @@ Install packages from `requirements.txt`
 ```bash
 python -m pip install -r requirements.txt
 ```
+
+`pandas` pipes
+```bash
+from functools import wraps
+
+def logger(f):
+    @wraps(f)
+    def wrapper(*args, **kwargs):
+        res = f(*args, **kwargs)
+        print(f"Step: {f.__name__}, shape={res.shape}")
+        return res
+    return wrapper
+    
+@logger
+def init_pipe(df):
+    return df.copy()
+
+@logger
+def func_name(df):
+    ...
+    return df
+    
+df.pipe(init_pipe).pipe(func_name)
+```
