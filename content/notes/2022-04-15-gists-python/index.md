@@ -61,3 +61,56 @@ def func_name(df):
     
 df.pipe(init_pipe).pipe(func_name)
 ```
+
+logging with `rich`
+```bash
+import logging
+from rich.logging import RichHandler
+
+logger = logging.getLogger(__name__)
+
+# specify handlers
+cons_handler = RichHandler()
+file_handler = logging.FileHandler("debug.log")
+
+# set logging levels
+logger.setLevel(logging.DEBUG)
+cons_handler.setLevel(logging.WARNING)
+file_handler.setLevel(logging.DEBUG)
+
+# format logs
+fmt_cons = '%(message)s'
+fmt_file = '%(levelname)s %(asctime)s [%(filename)s:%(funcName)s:%(lineno)d] %(message)s'
+cons_handler.setFormatter(logging.Formatter(fmt_cons))
+file_handler.setFormatter(logging.Formatter(fmt_file))
+
+# add handlers to logger
+logger.addHandler(cons_handler)
+logger.addHandler(file_handler)
+```
+
+Save cookies for use via `selenium` or `requests`
+```
+# save cookies
+with open("cookie", 'wb') as f:
+    pickle.dump(driver.get_cookies(), f)
+    
+# load cookies (selenium)
+with open("cookie", 'rb') as f:
+    cookies = pickle.load(f)
+    for cookie in cookies:
+        driver.add_cookie(cookie)
+        
+# load cookies (requests)
+cookie_jar = requests.cookies.RequestsCookieJar()
+with open("cookie", 'rb') as f:
+    cookies = pickle.load(f)
+    for cookie in cookies:
+        cookie_jar.update({cookie['name']: cookie['value']})
+        
+requests.get(url, cookies=cookie_jar)
+```
+
+
+
+
