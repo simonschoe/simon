@@ -37,6 +37,6 @@ kleiner, dunkler, meist fensterloser [Neben]raum, Abstellraum. Ein Raum für all
 *The more universal the appeal of the idea, the better it scales.*  
 ~[John List](https://www.thevoltageeffect.com/)
 
-*The dichotomy of life is: If you do what's easy in the short-term life will be hard; if you do what's hard in the short-term, you life will get easier.*  
+*The dichotomy of life is: If you do what's easy in the short-term, life will be hard; if you do what's hard in the short-term, you life will get easier.*  
 ~[Layne Norton](https://youtu.be/K4Ze-Sp6aUE?t=10625)
 
