@@ -110,13 +110,13 @@ enableEmoji = true
   # Configure header
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About"
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Research"
-    title = "Research"
-    url = "/research/"
+    name = "Projects"
+    title = "Projects"
+    url = "/project/"
     weight = 2
   [[menu.header]]
     name = "Teaching"

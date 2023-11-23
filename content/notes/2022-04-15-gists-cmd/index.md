@@ -1,9 +1,9 @@
 ---
-date: 2022-04-15
-title: CMD Gists
+title: "CMD Gists"
+date: "2022-04-15"
 subtitle: xxx
 summary: xxx
-slug: cmd-gists
+slug: "cmd-gists"
 ---
 
 ### Command Prompt
