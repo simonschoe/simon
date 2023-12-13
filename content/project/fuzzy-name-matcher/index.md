@@ -1,7 +1,7 @@
 ---
 author: Simon Schölzel
 categories:
-- Tools
+- tools
 date: "2023-10-04"
 date_end: "2023-10-04"
 draft: false
@@ -11,7 +11,7 @@ excerpt: Tool to perform fuzzy name matching on entity names and merge financial
 featured: true
 layout: single
 links:
-- icon: link
+- icon: door-open
   icon_pack: fa
   name: Link
   url: http://18.196.239.215:7860/
@@ -19,7 +19,7 @@ links:
   icon_pack: fab
   name: GitHub
   url: https://github.com/simonschoe/fuzzy-name-match
-location: Münster, Germany
+location: Khorinis, Myrtana
 show_post_time: false
 subtitle: 
 title: "Fuzzy Name Matcher"

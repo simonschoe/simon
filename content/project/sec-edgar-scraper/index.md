@@ -1,7 +1,7 @@
 ---
 author: Simon Schölzel
 categories:
-- Tools
+- tools
 date: "2022-06-24"
 date_end: "2022-06-24"
 draft: false
@@ -15,7 +15,7 @@ links:
   icon_pack: fab
   name: GitHub
   url: https://github.com/simonschoe/scraper-edgar
-location: Münster, Germany
+location: Gondwana, Ediacaran
 show_post_time: false
 subtitle: 
 title: "SEC EDGAR Scraper"

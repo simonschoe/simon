@@ -1,7 +1,7 @@
 ---
 author: Simon Schölzel
 categories:
-- Tools
+- tools
 date: "2022-11-12"
 date_end: "2022-11-13"
 draft: false
@@ -15,7 +15,7 @@ links:
   icon_pack: fab
   name: GitHub
   url: https://github.com/jxb3641/OpenAI-hackathon-Scope3
-location: Münster, Germany
+location: Cyclops Mountains, Papua
 show_post_time: false
 subtitle: "Contribution to the 2022 OpenAI Climate Change Hackathon"
 title: "Ungreenwash"
