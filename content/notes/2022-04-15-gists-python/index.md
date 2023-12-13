@@ -39,7 +39,7 @@ python -m pip install -r requirements.txt
 ```
 
 `pandas` pipes
-```bash
+```python
 from functools import wraps
 
 def logger(f):
@@ -63,7 +63,7 @@ df.pipe(init_pipe).pipe(func_name)
 ```
 
 logging with `rich`
-```bash
+```python
 import logging
 from rich.logging import RichHandler
 
@@ -90,7 +90,7 @@ logger.addHandler(file_handler)
 ```
 
 Save cookies for use via `selenium` or `requests`
-```
+```python
 # save cookies
 with open("cookie", 'wb') as f:
     pickle.dump(driver.get_cookies(), f)
