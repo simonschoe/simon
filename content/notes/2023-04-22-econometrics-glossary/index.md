@@ -14,7 +14,7 @@ categories:
 
 **Stable Unit Treatment Value Assumption (SUTVA):** There are no spill-overs (i.e., interference) between units that may affect a unit's treatment effect value.
 
-**Conditional Independence (Unconfoundedness):** Treatment assignment is independent of potential outcomes when conditioned on all observable confounders. There is no other unobservable confounder that affects the relationship between treatment and outcome. (*Note: This assumption rarely holds in observational data as it would assume that units make decisions (i.e., treatments) that are entirely independent of potential outcomes which would imply complete irrationality.*)
+**Conditional Independence (Unconfoundedness):** Treatment assignment is independent of potential outcomes when conditioned on all observable confounders. There is no other unobservable confounder that affects the relationship between treatment and outcome. Confounding is the main reason that decriptive estimates do not equal causal estimates. (*Note: This assumption rarely holds in observational data as it would assume that units make decisions (i.e., treatments) that are entirely independent of potential outcomes which would imply complete irrationality.*)
 
 **Common Support:** Units in the treatment and control group share the same covariate space in all relevant dimensions to effectively control for observable confounders. Otherwise, when covariate distributions are non-overlapping, specific covariate values may give away treatment and control units cannot serve as plausible counterfactuals.
 

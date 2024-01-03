@@ -24,6 +24,7 @@ intro: |
   - [Weights & Biases](https://wandb.ai/site) for experiment tracking,
   - [fixest](https://lrberge.github.io/fixest/) and [did](https://bcallaway11.github.io/did/) for empirical modeling,
   - [DoubleML](https://docs.doubleml.org/stable/index.html) for causal machine learning,
+  - [gradio](https://www.gradio.app/) for web applications,
   - [rmarkdown](https://rmarkdown.rstudio.com/), [xaringan](https://github.com/yihui/xaringan), and [Jupyter Notebooks](https://jupyter.org/) for literate coding, and
   - [Git](https://git-scm.com/)+[GitHub](https://github.com/) for version control.
   
