@@ -1,13 +1,13 @@
 ---
 author: Simon Schölzel
 categories:
-- tools
+- Project
 date: "2023-10-04"
 date_end: "2023-10-04"
 draft: false
 event: 
 event_url: 
-excerpt: Tool to perform fuzzy name matching on entity names and merge financial datasets in the absence of unique keys.
+excerpt: Gradio app to perform fuzzy name matching on entity names and merge financial datasets in the absence of unique keys. Allows for docker deployment.
 featured: true
 layout: single
 links:
@@ -26,4 +26,3 @@ title: "Fuzzy Name Matcher"
 ---
 
 ![](fnm.jpg)
-

@@ -1,7 +1,7 @@
 ---
 author: Simon Schölzel
 categories:
-- tools
+- Project
 date: "2022-06-24"
 date_end: "2022-06-24"
 draft: false

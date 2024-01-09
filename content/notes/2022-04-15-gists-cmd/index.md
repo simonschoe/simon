@@ -1,8 +1,7 @@
 ---
-title: "CMD Gists"
-date: "2022-04-15"
-subtitle: xxx
-summary: xxx
+title: CMD Gists
+date: 2022-04-15
+summary: <i class="fas fa-terminal"></i>&emsp;A place for handy shell commands 
 slug: "cmd-gists"
 ---
 

@@ -1,8 +1,7 @@
 ---
 date: 2022-04-15
 title: Python Gists
-subtitle: A place for handy Python code snippets
-summary: A collection of useful `Python` code snippets that I rarely use and that frequently escape my mind. <i class="fab fa-python"></i>
+summary: <i class="fab fa-python"></i>&emsp;A place for handy Python code snippets 
 slug: python-gists
 ---
 
