@@ -1,11 +1,15 @@
 ---
-date: 2022-06-18
-title: CLIP-Guided Image Synthesis
-subtitle: Generative Art Using VQGAN and CLIP
-summary: A write-up that summarizes my personal learnings and experimentations with CLIP-guided image synthesis. It covers VQGAN, CLIP, Inference-by-Optimization, as well as various text-to-image and image-to-image experiments.
-slug: image-synthesis
+author: Simon Schölzel
 categories:
-- TIL
+- Project
+date: 2022-06-18
+date_end: 2022-06-18
+title: CLIP-Guided Image Synthesis
+excerpt: A write-up that summarizes my personal learnings and experimentations with CLIP-guided image synthesis. It covers VQGAN, CLIP, Inference-by-Optimization, as well as various text-to-image and image-to-image experiments.
+featured: true
+layout: single
+location: Atlantis, Atlantic Ocean
+show_post_time: false
 ---
 
 

@@ -1,14 +1,18 @@
 ---
+author: Simon Schölzel
+categories:
+- Project
 date: 2022-12-30
+date_end: 2022-12-30
 title: The DreamBooth Technique
-subtitle: Fine-Tunig Technique for Personalized Text-to-Image Models
-summary: |
+excerpt: |
   DreamBooth is a fine-tuning technique for large, pretrained text-to-image models (e.g., DALL-E2, Imagen, Stable Diffusion).
   Based on a small reference set of training images of a given subject or object (henceforth *concept*), the DreamBooth technique learns a custom identifier for the given concept and implants the concept embedding into the model's output domain.
-  This enables the model to synthesize images of the underlying concept in different contexts and settings with very high-quality.
-slug: dreambooth-technique
-categories:
-- TIL
+  It enables the model to synthesize images of the underlying concept in different contexts and settings with very high-quality.
+featured: true
+layout: single
+location: Holbox, Mexico
+show_post_time: false
 ---
 
 ## DreamBooth

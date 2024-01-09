@@ -6,12 +6,12 @@ use_featured: false # if false, use most recent by date
 number_categories: 10 # set to zero to exclude
 show_intro: true
 intro: |
-  The solution of many contemporaneous problems, big or small, starts with the issue of *measurement*. My [research](/research) focuses broadly on measurement problems in accounting. These involve the prediction of accounting estimates, the analysis of corporate narratives, and the estimation of plausibly causal effects. In my works, I pair traditional quantitative methods with novel techniques from machine learning, natural language processing, interpretable machine learning, and causal machine learning. I am driven by an intense curiosity and approach my work with a [scientific mindset](https://hbr.org/2022/05/act-like-a-scientist). I enjoy deep work and frequently alternate between R and Python to harness the best of both worlds. 
+  The solution to many contemporary problems, big or small, begins with the question of *measurement*. My [research](/research) focuses broadly on measurement problems in accounting. These include the prediction of accounting estimates, the analysis of corporate narratives, and the estimation of plausibly causal effects. In my works, I pair traditional quantitative methods with novel techniques from machine learning, natural language processing, interpretable machine learning, and causal machine learning. I am driven by an intense curiosity and approach my work with a [scientific mindset](https://hbr.org/2022/05/act-like-a-scientist). I enjoy deep work and alternating between R and Python to harness the best of both worlds. 
   
-  My research investigates
-  - how machine learning could aid managers in providing decision-useful accounting estimates and reducing human biases,
-  - how natural language processing could be leveraged to meter complex phenomenons in firms' capital market communications with financial analysts, and
-  - how transfer learning could advance the state-of-the-art in textual analysis in accounting research.
+  My research explores
+  - how machine learning can help managers provide decision-useful accounting estimates and reduce human bias,
+  - how natural language processing can be used to meter complex phenomena in firms' capital market communications with financial analysts, and
+  - how transfer learning can advance the state-of-the-art in textual analysis in accounting research.
   
   My tech stack includes
   - [pandas](https://pandas.pydata.org/) and the [tidyverse](https://www.tidyverse.org/) for tabular data wrangling,
@@ -28,8 +28,8 @@ intro: |
   - [rmarkdown](https://rmarkdown.rstudio.com/), [xaringan](https://github.com/yihui/xaringan), and [Jupyter Notebooks](https://jupyter.org/) for literate coding, and
   - [Git](https://git-scm.com/)+[GitHub](https://github.com/) for version control.
   
-show_outro: true
-outro: All images used throughout the website have been generated using [dream](https://app.wombo.art/) GAN.
+show_outro: false
+outro: 
 ---
 
 \*\* index doesn't contain a body, just front matter above. See about/list.html in the layouts folder \*\*

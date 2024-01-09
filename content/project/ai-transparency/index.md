@@ -1,7 +1,7 @@
 ---
 author: Simon Schölzel
 categories:
-- research
+- Project
 date: "2024-01-03"
 date_end: "2024-01-03"
 draft: false
@@ -103,7 +103,7 @@ the Hugging Face Face Hub.
 #### Data
 
 The underlying data includes the full history of commits and model cards
-through 2023-09-30. The full commit histories (including the available
+through 2023-09-30 for all repositories with at least 3 likes (as of November 2023). The full commit histories (including the available
 model cards) have been scraped from the Hugging Face Hub. All model card
 features are extracted using Regex. Like statistics are retrieved via
 the public Hub API.

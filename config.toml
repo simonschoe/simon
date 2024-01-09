@@ -97,9 +97,13 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/simon-schoelzel/"
   [[params.social]]
-      icon      = "ssrn" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "xxx"
+      icon      = "soundcloud" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://soundcloud.com/sims0l0n"
+  #[[params.social]]
+  #    icon      = "ssrn" # icon name without the 'fa-'
+  #    icon_pack = "ai"
+  #    url       = "xxx"
 
 [taxonomies]
   category = "categories"
@@ -123,16 +127,16 @@ enableEmoji = true
     title = "Teaching"
     url = "/teaching/"
     weight = 3
-  [[menu.header]]
-    name = "Notes"
-    title = "Notes"
-    url = "/notes/"
-    weight = 4
+  #[[menu.header]]
+  #  name = "Notes"
+  #  title = "Notes"
+  #  url = "/notes/"
+  #  weight = 4
   [[menu.header]]
     name = "Kabuff"
-    title = "Element Page"
+    title = "Kabuff"
     url = "/elements/"
-    weight = 5
+    weight = 4
 
   # Configure footer
   [[menu.footer]]
@@ -145,11 +149,7 @@ enableEmoji = true
   #  title = "Contact form"
   #  url = "/contact/"
   #  weight = 2
-  # [[menu.footer]]
-  #   name = "Contributors"
-  #   title = "Contributors"
-  #   url = "/contributors/"
-  #   weight = 3
+
 
 # see https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
