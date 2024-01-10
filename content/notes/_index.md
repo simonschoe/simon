@@ -1,7 +1,7 @@
 ---
 title: Notes
 author: 
-description: An uncurated collection of notes, thoughts, ideas, code snippets, and TILs (*Today I Learned*) to keep, remember, revisit, learn, share, expand, and enjoy.
+description: An uncurated collection of gists.
 show_post_thumbnail: true
 thumbnail_left: true
 show_author_byline: true
