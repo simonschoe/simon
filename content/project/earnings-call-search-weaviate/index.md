@@ -18,7 +18,7 @@ links:
 location: HNSW graph, Layer 0
 show_post_time: false
 subtitle: 
-title: "Earnings Call Search Tool""
+title: "Earnings Call Search Tool"
 ---
 
 ![](ui.png)
