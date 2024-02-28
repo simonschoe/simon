@@ -17,7 +17,7 @@ cascade:
     title: "Teaching"
     author: 
     description: |
-      A place for courses and workshops I drafted and taught, alongside links to supplementary resources (e.g., slides, code, videos, etc.).
+      A list of courses, workshops, and talks I designed and taught, alongside links to supplementary resources (e.g., slides, code, videos, etc.).
     show_author_byline: true
     show_post_date: true
     text_link_label: ""
