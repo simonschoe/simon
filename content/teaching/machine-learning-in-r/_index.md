@@ -3,7 +3,7 @@ title: Machine Learning in R
 # list or single layouts are possible
 layout: single-series # list, list-sidebar, single-series
 show_post_thumbnail: true
-weight: 1
+weight: 2
 publishDate: 2021-10-01
 date: 2021-10-01
 subtitle: Course Materials – Winter term 2021/22

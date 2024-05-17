@@ -5,7 +5,7 @@ author: Simon Schölzel
 weight: 1
 date: 2023-05-09
 draft: false
-excerpt: This lecture was part of the "Data Literacy" undergraduate course held at University of Münster, School of Business and Economics (summer term 2023). 🎓
+excerpt: This lecture was part of the "Data Literacy" undergraduate course held at University of Münster, School of Business and Economics (summer term 2024). 🎓
 links:
 - icon: door-open
   icon_pack: fas
