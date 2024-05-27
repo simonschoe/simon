@@ -6,7 +6,7 @@ description: |
   I am a final year PhD student intrigued by practical problems at the intersection of data science, machine learning, and accounting. As an educator, I try to empower others to discover and embrace the merits of data and AI. As a researcher, I explore how machine learning can inform managerial decision-making and help make complex phenomena measurable.
 image_left: true
 images:
-- img/home.jpg
+- img/home.jfif
 show_action_link: true
 show_social_links: true
 subtitle: Ph.D. & Researcher @ University of Münster

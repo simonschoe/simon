@@ -118,7 +118,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Projects"
     title = "Projects"
-    url = "/project/"
+    url = "/projects/"
     weight = 2
   [[menu.header]]
     name = "Teaching"
@@ -133,7 +133,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Kabuff"
     title = "Kabuff"
-    url = "/elements/"
+    url = "/kabuff/"
     weight = 4
 
   # Configure footer

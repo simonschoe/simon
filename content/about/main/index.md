@@ -1,6 +1,32 @@
 ---
 ## Configure page content in wide column
-title: "Hi, I'm Simon. 👋"
+# use custom css to write `title` using the Typwriter Effect
+title: |
+  <style>
+    .typewriter {
+      overflow: hidden; /* Ensures the content is not revealed until the animation */
+      border-right: .15em solid orange; /* The typewriter cursor */
+      white-space: nowrap; /* Keeps the content on a single line */
+      letter-spacing: .0em; /* Adjust as needed */
+      animation:
+        typing 4s steps(44) 1s 1 normal both,
+        blink-caret .75s steps(44) infinite normal;
+    }
+
+    /* The typing effect */
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 7.8em } /* Manually set to stop after last character */
+    }
+
+    /* The typewriter cursor effect */
+    @keyframes blink-caret {
+      from, to { border-color: transparent }
+      50% { border-color: orange }
+    }
+  </style>
+
+  <h1 class="f2 f1-m f-headline-l fw5-ns mv4 lh-solid tracked-tight-ns typewriter" style="font-family: inherit;">Hi, I’m Simon. 👋</h1>
 number_featured: 2 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 10 # set to zero to exclude
