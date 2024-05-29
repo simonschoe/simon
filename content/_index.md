@@ -9,7 +9,7 @@ images:
 - img/home.jfif
 show_action_link: true
 show_social_links: true
-subtitle: Ph.D. & Researcher @ University of Münster
+subtitle: Data Person + Scientific Mindset + Educator
 text_align_left: falsefocus
 title: Simon Schölzel
 type: home

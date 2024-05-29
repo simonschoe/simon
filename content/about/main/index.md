@@ -1,6 +1,5 @@
 ---
 ## Configure page content in wide column
-# use custom css to write `title` using the Typwriter Effect
 title: |
   <style>
     .typewriter {
@@ -9,7 +8,7 @@ title: |
       white-space: nowrap; /* Keeps the content on a single line */
       letter-spacing: .0em; /* Adjust as needed */
       animation:
-        typing 4s steps(44) 1s 1 normal both,
+        typing 4s steps(24) 1s 1 normal both,
         blink-caret .75s steps(44) infinite normal;
     }
 
