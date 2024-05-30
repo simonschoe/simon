@@ -98,6 +98,10 @@ enableEmoji = true
       icon      = "soundcloud" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://soundcloud.com/sims0l0n"
+  [[params.social]]
+      icon      = "x-twitter" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "xxx"
   #[[params.social]]
   #    icon      = "ssrn" # icon name without the 'fa-'
   #    icon_pack = "ai"
